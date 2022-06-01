@@ -1,1 +1,1 @@
-window.location.href = "http://www.google.com";
+window.location.replace("http://stackoverflow.com");
